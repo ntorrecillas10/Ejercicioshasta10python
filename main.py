@@ -13,6 +13,6 @@ ej7es_triangulo_rectangulo(4,5,3)
 ej8mcd(10,15)
 ej9imprimir_mosaicos(6)
 ej10imprimir_mosaico_rombo(9)
-#jugarPPT()
-numsecreto()
+jugarPPT()
+#numsecreto()
 
